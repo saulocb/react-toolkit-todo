@@ -9,7 +9,7 @@ You can see the demo here  [demo](https://studying-react.vercel.app/)
 
 ## Description 
 
-A complete CRUD done with react 16v + redux + redux forme and react bootstrap
+A complete CRUD done with react 16v + redux toolkit + redux forme and react bootstrap
 
 
 ## Available Scripts
